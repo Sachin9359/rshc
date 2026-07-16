@@ -13,7 +13,7 @@ export default function Header() {
             <Image src={assets.logo1} alt="RSHC logo" width={42} height={42} className="w-9 h-9 sm:w-10 sm:h-10 object-contain " />
           </div>
           <div className="min-w-0">
-            <span className="block text-sm sm:text-xl font-extrabold tracking-wide text-[var(--text)] truncate bg-gradient-to-r from-[var(--text)] to-[var(--primary)] bg-clip-text text-transparent">RSHC Infotech Pvt Ltd</span>
+            <span className="block text-sm sm:text-xl font-extrabold tracking-wide text-[var(--text)] truncate bg-gradient-to-r from-[var(--text)] to-[var(--primary)] bg-clip-text text-transparent">RSHC INFOTECH Pvt Ltd</span>
             <p className="text-[9px] sm:text-[10px] uppercase text-[var(--muted)] tracking-widest hidden sm:block">Empowering Through Innovation</p>
           </div>
         </div>
