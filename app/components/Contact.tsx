@@ -20,7 +20,7 @@ export default function Contact() {
             <div className="text-sm text-[var(--text)] font-medium space-y-2">
               <a href="mailto:demo@gmail.com" className="flex items-center gap-2 hover:text-[#00B4D8] transition-colors">
                 <span>📧</span>
-                <span>demo@gmail.com</span>
+                <span>rshcinfotechpvtltd@gmail.com</span>
               </a>
               <a href="tel:+919876543210" className="flex items-center gap-2 hover:text-[#00B4D8] transition-colors">
                 <span>📞</span>
