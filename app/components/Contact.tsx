@@ -18,7 +18,7 @@ export default function Contact() {
           <div className="p-4 bg-white border border-[var(--border)] rounded">
             <span className="text-[10px] text-[var(--muted)] font-bold uppercase tracking-wider block mb-1">Digital Channels</span>
             <div className="text-sm text-[var(--text)] font-medium space-y-2">
-              <a href="mailto:demo@gmail.com" className="flex items-center gap-2 hover:text-[#00B4D8] transition-colors">
+              <a href="mailto:rshcinfotechpvtltd@gmail.com" className="flex items-center gap-2 hover:text-[#00B4D8] transition-colors">
                 <span>📧</span>
                 <span>rshcinfotechpvtltd@gmail.com</span>
               </a>
