@@ -2,6 +2,7 @@
   "name": "rshc",
   "version": "0.1.0",
   "private": true,
+  "author": "Sachin Gautam <sachingautam.stp@gmail.com>",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
